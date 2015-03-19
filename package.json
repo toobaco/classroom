@@ -1,0 +1,14 @@
+{
+  "name": "ClassRoom",
+  "version": "0.1.3",
+  "description": "A simple classroom application based on node.js, reveal.js, socket.io, webrtc and ...",
+  "main": "app.js",
+  "author": "Tooba Advertising Agency",
+  "homepage": "http:tooba.co",
+  "license": "MIT",
+  "dependencies": {
+    "basic-auth": "^1.0.0",
+    "express": "^4.12.3",
+    "socket.io": "^1.3.5"
+  }
+}
